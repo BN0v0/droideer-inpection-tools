@@ -28,13 +28,6 @@ A powerful web-based inspector for Android devices that brings Chrome DevTools-l
 * **Screenshot Capture** \- Take screenshots with element highlighting
 * **Multi-Device Support** \- Connect and switch between multiple devices
 
-### 🌐 **Network Monitoring**
-
-* **HTTP Request Tracking** \- Monitor all network traffic in real\-time
-* **API Endpoint Discovery** \- Automatically detect and catalog API calls
-* **Response Viewer** \- Inspect JSON responses and request headers
-* **Domain Filtering** \- Focus on specific domains or endpoints
-
 ## 🚀 Quick Start
 
 ### Prerequisites
