@@ -12,8 +12,6 @@
 
 A powerful web-based inspector for Android devices that brings Chrome DevTools-like experience to mobile app development and automation. Perfect for building automation scripts, understanding app structure, and debugging mobile applications.
 
-![DevTools Preview](https://via.placeholder.com/800x400/2563eb/ffffff?text=Droideer+DevTools+Preview)
-
 ## ✨ Features
 
 ### 🔍 **UI Inspection**
